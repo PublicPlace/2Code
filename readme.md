@@ -1,3 +1,3 @@
 # Shorter
 
-## This is a public coding place …
+## This is a public coding place … go for it
