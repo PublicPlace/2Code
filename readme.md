@@ -1,3 +1,3 @@
-Short Lnk
+# Short Lnk
 
-This is Michael's coding place > keep out
+## This is a public coding place …
